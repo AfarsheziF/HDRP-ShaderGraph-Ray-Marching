@@ -363,3 +363,7 @@ MigrationBackup/
 FodyWeavers.xsd
 /Library
 /Temp
+/.vsconfig
+/Assembly-CSharp-Editor.csproj
+/Assembly-CSharp.csproj
+/HDRP ShaderGraph Ray Marching.sln
