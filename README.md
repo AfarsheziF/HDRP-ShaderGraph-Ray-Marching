@@ -4,4 +4,4 @@
 
 This repo is a work in process for a Ray-Marching shader in HDRP ShaderGraph.
 
-Refer to the forum post for the ongoing development.
+Please Refer to the [ShaderGraph forum post](https://forum.unity.com/threads/ray-marching-in-shader-graph.1518370/) for the ongoing development.
