@@ -76,7 +76,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Normals:
-        m_Texture: {fileID: 2800000, guid: a451efdb786e8544e9165f26c9ed50dd, type: 3}
+        m_Texture: {fileID: 2800000, guid: 37d138b2aa1e835468d802911057826a, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _RayMarcherCustomFunction_da4ebbdc9cfe41c0b252767439bbfc99_Texture_12:
@@ -116,7 +116,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Texture:
-        m_Texture: {fileID: 2800000, guid: dc4336e45dde23c43a04db8a6cd24d17, type: 3}
+        m_Texture: {fileID: 2800000, guid: f15ea4b19ee1bca4492cb0635af0547b, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Texture2D:
